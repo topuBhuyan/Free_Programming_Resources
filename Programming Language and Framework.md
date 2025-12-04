@@ -1,2 +1,7 @@
 ## C Programming 💁‍♂️ 
-https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white
+```
+   * Item 1
+    - Item 2
+    + Item 3
+
+```
