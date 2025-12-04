@@ -6,15 +6,15 @@
 
   -- [OOP](https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - ➡️ Bangla
 
-```
+<div style="border: 1px solid #444; padding: 10px; border-radius: 8px;">
   <h3>📌 C</h3>
-<ul>
-  <li><a href="https://example.com">C - All you need to know</a> - Stack Learner</li>
-  <li><a href="https://example.com">C Programming Bangla Tutorial</a> - Bangla Coding Tutor</li>
-  <li><a href="https://example.com">C Programming Bangla Tutorial For Beginners 2023</a> - Hablu Programmer</li>
-</ul>
+  <ul>
+    <li><a href="#">C - All you need to know</a> - Stack Learner</li>
+    <li><a href="#">C Programming Bangla Tutorial</a> - Bangla Coding Tutor</li>
+    <li><a href="#">C Programming Bangla Tutorial For Beginners 2023</a> - Hablu Programmer</li>
+  </ul>
+</div>
 
-```
 
 
 
