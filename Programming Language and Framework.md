@@ -7,7 +7,7 @@
 
 | 📌 C |
 | --- |
-| - [C - All you need to know](https://example.com) - Stack Learner<br>
+| - [C - All you need to know](https://example.com) - Stack Learner<br>-
   - [C Programming Bangla Tutorial](https://example.com) - Bangla Coding Tutor<br>
   - [C Programming Bangla Tutorial For Beginners 2023](https://example.com) - Hablu Programmer |
 
