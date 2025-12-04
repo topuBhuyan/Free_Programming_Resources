@@ -6,7 +6,7 @@
 
   -- [OOP](https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - ➡️ Bangla
 
-<div style="border: 1px solid #444; padding: 10px; border-radius: 8px;">
+<div style="border: 2px solid #FF0000; padding: 10px; border-radius: 8px;">
   <h3>📌 C</h3>
   <ul>
     <li><a href="#">C - All you need to know</a> - Stack Learner</li>
