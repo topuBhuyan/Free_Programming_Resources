@@ -6,7 +6,7 @@
 
   -- [OOP](https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - ➡️ Bangla
 
-<div style="border: 2px solid #FF0000; padding: 10px; border-radius: 8px;">
+<div style="border: 1px solid #555; padding: 15px; border-radius: 10px; margin: 10px 0;">
   <h3>📌 C</h3>
   <ul>
     <li><a href="#">C - All you need to know</a> - Stack Learner</li>
@@ -14,6 +14,7 @@
     <li><a href="#">C Programming Bangla Tutorial For Beginners 2023</a> - Hablu Programmer</li>
   </ul>
 </div>
+
 
 
 
