@@ -16,7 +16,7 @@
   <li><a href="https://www.khanacademy.org/math/linear-algebra"> English </a> - Khan Academy </li>
   <li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"> Visual explanations </a> - 3Blue1Brown</li>
   <li><a href="https://www.youtube.com/playlist?list=PLoBRGqrms78lPVnFdSoCmPkHOLU9TtwXn"> Bangla </a> - University Math Physics by Mahmud</li>
-  <li><a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw"> Linear Algebra for <b> AI ML </b> </a> - Sutday Mart </li>
+  <li><a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFct6HdBIszzy-jZlicLlkIw"> Linear Algebra for <h4><b> AI ML </b></h4> </a> - Sutday Mart </li>
 </ul>
 
 
