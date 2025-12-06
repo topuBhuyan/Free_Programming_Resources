@@ -2,7 +2,7 @@
 <ul>
   <li><a href="https://www.youtube.com/watch?v=2SpuBqvNjHI"> English </a> - freeCodeCamp.org</li>
   <li><a href="https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B&index=1"> English </a> - MIT OpenCourseWare</li>
-  <li><a href="https://www.youtube.com/watch?v=UWOVipHUZaM"> English </a> - freeCodeCamp.org</li>
+  <li><a href="https://www.youtube.com/watch?v=UWOVipHUZaM"> English </a> - My Lesson</li>
 </ul>
 
 <h3>Discrete Mathematics</h3>
