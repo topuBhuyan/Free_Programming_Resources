@@ -14,7 +14,7 @@
 
 | C# 💁‍♂️ |
 | --- |
-| - [Anisul Islam](https://youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF&si=qTxAgShZFr_3GVgI) - Bangla<br>- [Bro Code](https://youtu.be/wxznTygnRfQ?si=0e1nslBqEk8dfpP2)) - English (Beginner) <br>- [kudvenkat](https://youtube.com/playlist?list=PLAC325451207E3105&si=mFdhjZ9I2xLjfwRU) - English (Beginner to Advanced)  <br>- [Document](https://youtube.com/playlist?list=PLAC325451207E3105&si=mFdhjZ9I2xLjfwRU)  <br>- [Book][book.pdf](https://github.com/user-attachments/files/24097480/book.pdf)
+| - [Anisul Islam](https://youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF&si=qTxAgShZFr_3GVgI) - Bangla<br>- [Bro Code](https://youtu.be/wxznTygnRfQ?si=0e1nslBqEk8dfpP2)) - English (Beginner) <br>- [kudvenkat](https://youtube.com/playlist?list=PLAC325451207E3105&si=mFdhjZ9I2xLjfwRU) - English (Beginner to Advanced)  <br>- [Document](https://youtube.com/playlist?list=PLAC325451207E3105&si=mFdhjZ9I2xLjfwRU)  <br>- [Book](https://github.com/user-attachments/files/24097480/book.pdf)
  <br>-  [freeCodeCamp.org](https://youtu.be/YT8s-90oDC0?si=LlphF3856B67lyoS) - English (Advanced C#)  <br>-  [CodeBeauty](https://youtu.be/EazrhHMySQw?si=hb1mWVdasJpG0xVA) - English <br>- [Project Based C#](https://youtube.com/playlist?list=PLyf3HIc5hqTPsZRWyFpi8w58rRxJF5tfp&si=fnOm062ICwW2eTya) - English | <br> <br>
 
 
