@@ -15,7 +15,7 @@
   <li><a href="https://cplusplus.com/doc/"> Document 1</a> --> English</li>
   <li><a href="https://www.codecademy.com/catalog/language/c-plus-plus"> Document 2</a> --> English</li>
   <li><a href="https://youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5&si=PoWyZavFq8yXBTUF"> CPS Academy</a> --> Bangla(STL)</li>
-  <li><a href="https://youtu.be/awY7oJ7wFhs?si=4wvl3q3ARAObFwm5"> LoveExtendsCode </a> --> Bangla(STL)</li>
+  <li><a href="https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_&si=kzNgsBRnsbCsU3zE"> LoveExtendsCode </a> --> Bangla(STL)</li>
 </ul>
  <hr> 
 
