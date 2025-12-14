@@ -1,10 +1,9 @@
 <h1><b>📌 Programming Language 👨‍💻</b></h1>
-
-<h4> C Programming 💁‍♂️</h4>
+<h3> C Programming 💁‍♂️</h3>
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> English </a> - Stack Learner</li>
-  <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> English </a> - Bro Code</li>
-  <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> English </a> - Bangla Coding Tutor</li>
+  <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> Stack Learner </a> - Bangla</li>
+  <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> Bro Code </a> - English </li>
+  <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> Bangla Coding Tutor </a> - Bangla</li>
 </ul>
 
 
