@@ -1,8 +1,11 @@
-## 📌 Programming Language 👨‍💻
+<h1><b>📌 Programming Language 👨‍💻</b></h1>
 
-| C Programming 💁‍♂️ |
-| --- |
-| - [Stack Learner](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Bangla<br>- [Bro Code](https://www.youtube.com/watch?v=xND0t1pr3KY)) - English <br>- [Bangla Coding Tutor](https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - Bangla | <br> <br>
+<h4> C Programming 💁‍♂️</h4>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> English </a> - Stack Learner</li>
+  <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> English </a> - Bro Code</li>
+  <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> English </a> - Bangla Coding Tutor</li>
+</ul>
 
 
 | C++ 💁‍♂️ |
