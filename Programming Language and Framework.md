@@ -30,13 +30,13 @@
 
 </ul>
 
-<h4> DSA and OOP 💁‍♂️</h4>
+<h4> DSA and OOP 💭</h4>
 <ul>
                 
-  <li><a href="https://youtube.com/playlist?list=PLdl6zXgLsy3w1m6Hl5g2wfCJOLhBR8bg_&si=FvyM5Nj1geRP08BR"> Bangla Coding Tutor [Bangla] </a> --> DSA (C, C++, Java) </li>
-  <li><a href="https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&si=jSj8yRfDahl3VwLv"> Abdul Bari [English] </a> --> DSA </li>
-  <li><a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=xheIMPD4MB9s9Dy9"> CodeHelp - by Babbar [Hindi] </a> --> DSA(C++) </li>
-  <li><a href="https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=GOlxbdaA7RVLflgk"> Pavel Mavrin [English] </a> --> DSA </li>
+  <li><a href="https://youtube.com/playlist?list=PLdl6zXgLsy3w1m6Hl5g2wfCJOLhBR8bg_&si=FvyM5Nj1geRP08BR"> Bangla Coding Tutor [Bangla] </a> --> C, C++, Java</li>
+  <li><a href="https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&si=jSj8yRfDahl3VwLv"> Abdul Bari [English] </a> --> Theory </li>
+  <li><a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=xheIMPD4MB9s9Dy9"> CodeHelp - by Babbar [Hindi] </a> --> C++ </li>
+  <li><a href="https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=GOlxbdaA7RVLflgk"> Pavel Mavrin [English] </a> --> Theory </li>
   
                                 
   <li><a href="https://youtube.com/playlist?list=PLPkEK3TrAJ1O1yTAbJe5QlzOGAmTGaw7u&si=d3hfmqKq8QivkxqT"> Sharif Chowdhury </a> --> Bangla(OOP)</li>
