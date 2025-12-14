@@ -33,7 +33,7 @@
 
 <h4> DSA and OOP 💭</h4>
 <ul>
-                <h5 style="color: blue;">DSA</h5>
+                <h5 style="color: #000000;">DSA</h5>
   <li><a href="https://youtube.com/playlist?list=PLdl6zXgLsy3w1m6Hl5g2wfCJOLhBR8bg_&si=FvyM5Nj1geRP08BR"> Bangla Coding Tutor [Bangla] </a> --> C, C++, Java</li>
   <li><a href="https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&si=jSj8yRfDahl3VwLv"> Abdul Bari [English] </a> --> Theory </li>
   <li><a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=xheIMPD4MB9s9Dy9"> CodeHelp - by Babbar [Hindi] </a> --> C++ </li>
