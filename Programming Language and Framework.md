@@ -1,17 +1,27 @@
 <h1><b>📌 Programming Language 👨‍💻</b></h1>
 <h3> C Programming 💁‍♂️</h3>
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> Stack Learner </a> - Bangla</li>
-  <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> Bro Code </a> - English </li>
-  <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> Bangla Coding Tutor </a> - Bangla</li>
+  <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> Stack Learner </a> --> Bangla</li>
+  <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> Bro Code </a> --> English </li>
+  <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> Bangla Coding Tutor </a> --> Bangla</li>
 </ul>
 
-
-| C++ 💁‍♂️ |
-| --- |
-| - [Anisul Islam](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Bangla<br>- [CodeBeauty](https://youtu.be/GQp1zzTwrIg?si=uhXf2AIegeNmlS6R)) - English <br>- [Giraffe Academy](https://youtube.com/playlist?list=PLLAZ4kZ9dFpOSzRXG05goZMgsvXwDDL6g&si=HpE0p4LB8fiPoNtN)) - English <br>- [Document 1](https://cplusplus.com/doc/) <br>- [Document 2](https://www.codecademy.com/catalog/language/c-plus-plus) <br>-
-[Sharif Chowdhury](https://youtube.com/playlist?list=PLPkEK3TrAJ1O1yTAbJe5QlzOGAmTGaw7u&si=d3hfmqKq8QivkxqT) - Bangla (OOP) <br>- [CPS Academy](https://youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5&si=PoWyZavFq8yXBTUF) - Bangla (STL) <br>- [LoveExtendsCode](https://youtu.be/awY7oJ7wFhs?si=4wvl3q3ARAObFwm5) - Bangla (STL) <br>- [Pavel Mavrin](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=GOlxbdaA7RVLflgk) - English (DSA) <br>-  [CodeHelp - by Babbar](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=xheIMPD4MB9s9Dy9) - Hindi (DSA) <br>-  [Abdul Bari](https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&si=jSj8yRfDahl3VwLv) - English (DSA) |
-
+<h3> C++ 💁‍♂️</h3>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL"> Anisul Islam </a> --> Bangla</li>
+  <li><a href="https://youtu.be/GQp1zzTwrIg?si=uhXf2AIegeNmlS6R"> CodeBeauty </a> --> English </li>
+  <li><a href="https://youtube.com/playlist?list=PLLAZ4kZ9dFpOSzRXG05goZMgsvXwDDL6g&si=HpE0p4LB8fiPoNtN"> Giraffe Academy </a> --> English</li>
+  <li><a href="https://cplusplus.com/doc/"> Document 1</a> --> English</li>
+  <li><a href="https://www.codecademy.com/catalog/language/c-plus-plus"> Document 2</a> --> English</li>
+  <li><a href="https://youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5&si=PoWyZavFq8yXBTUF"> CPS Academy</a> --> Bangla(STL)</li>
+  <li><a href="https://youtu.be/awY7oJ7wFhs?si=4wvl3q3ARAObFwm5"> LoveExtendsCode </a> --> Bangla(STL)</li>
+  <li><a href="https://youtube.com/playlist?list=PLPkEK3TrAJ1O1yTAbJe5QlzOGAmTGaw7u&si=d3hfmqKq8QivkxqT"> Sharif Chowdhury </a> --> Bangla(OOP)</li>
+  <li><a href="https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&si=jSj8yRfDahl3VwLv"> Abdul Bari </a> --> English (DSA)</li>
+  <li><a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=xheIMPD4MB9s9Dy9"> CodeHelp - by Babbar </a> --> Hindi (DSA)</li>
+  <li><a href="https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=GOlxbdaA7RVLflgk"> Pavel Mavrin </a> --> English (DSA)</li>
+         <!-- <li><a href=" "> Sharif Chowdhury </a>  Bangla(OOP)</li>
+           <li><a href=" "> Sharif Chowdhury </a>  Bangla(OOP)</li> -->
+</ul>
 
 
 
