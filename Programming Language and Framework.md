@@ -4,6 +4,9 @@
   <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> Stack Learner </a> --> Bangla</li>
   <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> Bro Code </a> --> English </li>
   <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> Bangla Coding Tutor </a> --> Bangla</li>
+  <li><a href="  http://cpbook.subeen.com/"> Book[ Tamim Shahriar Subeen ] </a> --> Bangla </li>
+  <li><a href="  http://cpbook.subeen.com/"> Book[ Tamim Shahriar Subeen ] </a> --> Bangla </li>
+
 </ul>
  <hr> 
  
@@ -21,6 +24,7 @@
 
 <h3> C# 💁‍♂️</h3>
 <ul>
+  
   <li><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF&si=qTxAgShZFr_3GVgI"> Anisul Islam </a> --> Bangla</li>
   <li><a href="https://youtu.be/wxznTygnRfQ?si=0e1nslBqEk8dfpP2"> Bro Code </a> --> English </li>
   <li><a href="https://youtube.com/playlist?list=PLAC325451207E3105&si=mFdhjZ9I2xLjfwRU"> kudvenkat </a> --> English(Beginner to Advanced)</li>
@@ -28,8 +32,28 @@
   <li><a href="https://youtu.be/YT8s-90oDC0?si=LlphF3856B67lyoS"> freeCodeCamp.org </a> --> English(Advanced)</li>
   <li><a href="https://youtu.be/EazrhHMySQw?si=hb1mWVdasJpG0xVA"> CodeBeauty </a> --> English</li>
   <li><a href="https://youtube.com/playlist?list=PLyf3HIc5hqTPsZRWyFpi8w58rRxJF5tfp&si=fnOm062ICwW2eTya"> kudvenkat </a> --> English(Project Based)</li>
+
 </ul>
  <hr> 
+
+ <h3> Python 💁‍♂️</h3>
+<ul>
+  
+  <li><a href="https://dp-bn.github.io/file/book-0.1.alpha.pdf"> Tamim Shahriar Subeen[Bangla] </a> Book </li>
+  <li><a href="https://python.maateen.me/"> Maksudur Rahman Maateen[Bangla] </a> Book </li>
+
+</ul>
+ <hr> 
+
+ <h3> JavaScript 💁‍♂️</h3>
+<ul>
+  
+  <li><a href=" https://with.zonayed.me/js-basic/"> Zonayed Ahmed [Bangla] </a> Book -> জাভাস্ক্রিপ্ট ব্যাসিক </li>
+
+</ul>
+ <hr> 
+
+
 
 <h4> DSA and OOP 💭</h4>
 <ul>
@@ -37,22 +61,69 @@
   <li><a href="https://youtube.com/playlist?list=PLdl6zXgLsy3w1m6Hl5g2wfCJOLhBR8bg_&si=FvyM5Nj1geRP08BR"> Bangla Coding Tutor [Bangla] </a> --> C, C++, Java</li>
   <li><a href="https://youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr&si=jSj8yRfDahl3VwLv"> Abdul Bari [English] </a> --> Theory </li>
   <li><a href="https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=xheIMPD4MB9s9Dy9"> CodeHelp - by Babbar [Hindi] </a> --> C++ </li>
-  <li><a href="https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=GOlxbdaA7RVLflgk"> Pavel Mavrin [English] </a> --> Theory </li>
+  <li><a href="https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=GOlxbdaA7RVLflgk"> Pavel Mavrin [English] </a> --> Theory Class</li>
+  <li><a href="  https://dp-bn.github.io/"> Dynamic Programming Book [Bangla] </a> --> Tasmeem Reza, Mamnoon Siam </li>
+
   
    <h5>OOP</h5>
   <li><a href="https://youtube.com/playlist?list=PLPkEK3TrAJ1O1yTAbJe5QlzOGAmTGaw7u&si=d3hfmqKq8QivkxqT"> Sharif Chowdhury [Bangla]</a> --> C++</li>
   <li><a href="https://youtu.be/F7fkMhO1Ly0?si=hV0m80pXGRyPJ8p5"> Inception BD [Bangla]</a> --> Python</li>
   <li><a href="https://youtube.com/playlist?list=PL3_ATDyQLqPjwBwhdQ-zCwreAag48ReAr&si=lPwGKaPup_0_fHbF"> by uiu doc [Bangla]</a> --> Java</li>
   <li><a href="https://youtu.be/B6vSq4KiZeM?si=vxSiite1HKg5bgKK"> Stack Learner [Bangla]</a> --> JavaScript</li>
+  
 </ul>
  <hr> 
 
 
-## 📌  Framework 
+<h1> <b>  📌  Framework </b> </h1>
+<ul>
+  
+  <li><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF&si=WDCjspgKSlhjZj4v"> Anisul Islam [Bangla] </a> Asp.Net Core -> 86 number video thake.... </li>
+  
+</ul>
+ <hr> 
 
-## 📌 DevOps & Cloud
+
+<h1> <b> 📌 DevOps & Cloud </b> </h1>
+<ul>
+  
   <li><a href="https://youtube.com/playlist?list=PLpCqPSEm2Xe8dVi8cCLM9jmRp-FtEIGil&si=8gjdC-JO7bacZbh9"> go with habib [Bangla] </a> Docker Tutorial Course </li>
   <li><a href="https://youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku&si=XgtmD8wTYthaG4Wv"> Foyzul Karim [Bangla]</a> Docker (Beginner to Pro) </li>
   <li><a href="https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb&si=AAbprUAHXwxKqzsc"> CSLCBT Bangla [Bangla]</a> Linux Command with setup </li>
+  
 </ul>
  <hr> 
+
+
+ <h2> <b>  📌  Basic Problem Solving Link </b> </h2>
+ <ul>
+   
+  <li><a href="http://cpbook.subeen.com/p/blog-page_11.html"> Tamim Shahriar Subeen [Bangla] </a> Book </li>
+  <li><a href="https://codeforces.com/group/MWSDmqGsZm/contests"> Codeforces </a> Contests Based 1 </li>
+   <li><a href="https://codeforces.com/group/fI07hsxecA/contests"> Codeforces </a> Contests Based 2 </li>
+  <li><a href="https://github.com/topuBhuyan/100_Problems__Challengeeeee_/tree/SET_DSA"> Codeforces </a> DSA Based </li>
+
+</ul>
+ <hr> 
+
+
+ <h1> <b>  📌  AI & ML </b> </h1>
+<ul>
+  
+  <li><a href="https://ml.howtocode.dev/"> মানস কুমার মণ্ডল </a> বাংলায় মেশিন লার্নিং [Book] </li>
+  <li><a href="https://rakibul-hassan.gitbook.io/deep-learning"> রকিবুল হাসান </a> হাতেকলমে পাইথন ডীপ লার্নিং[Book] </li>
+  
+</ul>
+ <hr> 
+
+
+  <h1> <b>  📌 System Design and Software Architecture </b> </h1>
+<ul>
+  
+  <li><a href="https://imtiaz-hossain-emu.gitbook.io/system-design"> Imtiaz Hossain Emu </a> কেমনে করে সিস্টেম ডিজাইন? [Book] </li>
+  <li><a href=""> ডেভসংকেত </a> বাংলা ডেভেলপার চিটশিট [Book] </li>
+  
+</ul>
+ <hr> 
+
+ 
