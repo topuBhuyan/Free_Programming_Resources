@@ -48,7 +48,12 @@
  <hr> 
 
 
-
 ## 📌  Framework 
 
 ## 📌 DevOps & Cloud
+   <h5>Docker</h5>
+  <li><a href="https://youtube.com/playlist?list=PLpCqPSEm2Xe8dVi8cCLM9jmRp-FtEIGil&si=8gjdC-JO7bacZbh9"> go with habib [Bangla] </a></li>
+  <li><a href="https://youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku&si=XgtmD8wTYthaG4Wv"> Foyzul Karim [Bangla]</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb&si=AAbprUAHXwxKqzsc"> CSLCBT Bangla [Bangla]</a>Linux Command & setup</li>
+</ul>
+ <hr> 
