@@ -4,8 +4,7 @@
   <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> Stack Learner </a> --> Bangla</li>
   <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> Bro Code </a> --> English </li>
   <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> Bangla Coding Tutor </a> --> Bangla</li>
-  <li><a href="http://cpbook.subeen.com/"> Book[ Tamim Shahriar Subeen ] </a> --> Bangla </li>
-  <li><a href="http://cpbook.subeen.com/"> Book[ Tamim Shahriar Subeen ] </a> --> Bangla </li>
+  <li><a href="http://cpbook.subeen.com/"> -->  Tamim Shahriar Subeen [ Bangla ] </a> Book </li>
 
 </ul>
  <hr> 
