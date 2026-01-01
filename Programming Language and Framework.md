@@ -4,7 +4,7 @@
   <li><a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy"> Stack Learner </a> --> Bangla</li>
   <li><a href="https://www.youtube.com/watch?v=xND0t1pr3KY"> Bro Code </a> --> English </li>
   <li><a href="https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo"> Bangla Coding Tutor </a> --> Bangla</li>
-  <li><a href="http://cpbook.subeen.com/"> -->  Tamim Shahriar Subeen [ Bangla ] </a> Book </li>
+  <li><a href="http://cpbook.subeen.com/">Tamim Shahriar Subeen [ Bangla ] </a>--> Book </li>
 
 </ul>
  <hr> 
@@ -38,8 +38,8 @@
  <h3> Python 💁‍♂️</h3>
 <ul>
   
-  <li><a href="https://dp-bn.github.io/file/book-0.1.alpha.pdf"> Tamim Shahriar Subeen[Bangla] </a> Book </li>
-  <li><a href="https://python.maateen.me/"> Maksudur Rahman Maateen[Bangla] </a> Book </li>
+  <li><a href="https://dp-bn.github.io/file/book-0.1.alpha.pdf"> Tamim Shahriar Subeen[Bangla] </a>--> Book </li>
+  <li><a href="https://python.maateen.me/"> Maksudur Rahman Maateen[Bangla] </a>--> Book </li>
 
 </ul>
  <hr> 
@@ -47,7 +47,7 @@
  <h3> JavaScript 💁‍♂️</h3>
 <ul>
   
-  <li><a href="https://with.zonayed.me/js-basic/"> Zonayed Ahmed [Bangla] </a> Book -> জাভাস্ক্রিপ্ট ব্যাসিক </li>
+  <li><a href="https://with.zonayed.me/js-basic/"> Zonayed Ahmed </a> Book --> জাভাস্ক্রিপ্ট ব্যাসিক </li>
 
 </ul>
  <hr> 
@@ -77,7 +77,7 @@
 <h1> <b>  📌  Framework </b> </h1>
 <ul>
   
-  <li><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF&si=WDCjspgKSlhjZj4v"> --> Asp.Net Core -> 86 number video thake....  [Bangla] </a>  Anisul Islam </li>
+  <li><a href="https://youtube.com/playlist?list=PLgH5QX0i9K3qXvo8LVMULwwWo4PyJteQF&si=WDCjspgKSlhjZj4v">Asp.Net Core -> 86 number video thake....  [Bangla] </a> -->  Anisul Islam </li>
   
 </ul>
  <hr> 
@@ -86,9 +86,9 @@
 <h1> <b> 📌 DevOps & Cloud </b> </h1>
 <ul>
   
-  <li><a href="https://youtube.com/playlist?list=PLpCqPSEm2Xe8dVi8cCLM9jmRp-FtEIGil&si=8gjdC-JO7bacZbh9"> --> Docker Tutorial Course [Bangla] </a>  go with habib </li>
-  <li><a href="https://youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku&si=XgtmD8wTYthaG4Wv"> --> Docker (Beginner to Pro) [Bangla]</a> Foyzul Karim </li>
-<li><a href="https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb&si=AAbprUAHXwxKqzsc"> --> Linux Command with setup [Bangla]</a>  CSLCBT Bangla </li>
+  <li><a href="https://youtube.com/playlist?list=PLpCqPSEm2Xe8dVi8cCLM9jmRp-FtEIGil&si=8gjdC-JO7bacZbh9"> Docker Tutorial Course [Bangla] </a> -->  go with habib </li>
+  <li><a href="https://youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku&si=XgtmD8wTYthaG4Wv"> Docker (Beginner to Pro) [Bangla]</a> --> Foyzul Karim </li>
+<li><a href="https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb&si=AAbprUAHXwxKqzsc"> Linux Command with setup [Bangla]</a> --> CSLCBT Bangla </li>
   
 </ul>
  <hr> 
@@ -97,7 +97,7 @@
  <h2> <b>  📌  Basic Problem Solving Link </b> </h2>
  <ul>
    
-  <li><a href="http://cpbook.subeen.com/p/blog-page_11.html"> --> Book [Bangla] </a> Tamim Shahriar Subeen </li>
+  <li><a href="http://cpbook.subeen.com/p/blog-page_11.html"> Book [Bangla] </a> --> Tamim Shahriar Subeen </li>
   <li><a href="https://codeforces.com/group/MWSDmqGsZm/contests"> Codeforces </a> Contests Based 1 </li>
    <li><a href="https://codeforces.com/group/fI07hsxecA/contests"> Codeforces </a> Contests Based 2 </li>
   <li><a href="https://github.com/topuBhuyan/100_Problems__Challengeeeee_/tree/SET_DSA"> Codeforces </a> DSA Based </li>
@@ -109,8 +109,8 @@
  <h1> <b>  📌  AI & ML </b> </h1>
 <ul>
   
-  <li><a href="https://ml.howtocode.dev/"> --> বাংলায় মেশিন লার্নিং [Book] </a>  মানস কুমার মণ্ডল  </li>
-  <li><a href="https://rakibul-hassan.gitbook.io/deep-learning"> --> হাতেকলমে পাইথন ডীপ লার্নিং[Book] </a>  রকিবুল হাসান </li>
+  <li><a href="https://ml.howtocode.dev/"> বাংলায় মেশিন লার্নিং [Book] </a> --> মানস কুমার মণ্ডল  </li>
+  <li><a href="https://rakibul-hassan.gitbook.io/deep-learning"> হাতেকলমে পাইথন ডীপ লার্নিং[Book] </a> -->  রকিবুল হাসান </li>
   
 </ul>
  <hr> 
@@ -119,8 +119,8 @@
   <h1> <b>  📌 System Design and Software Architecture </b> </h1>
 <ul>
   
-  <li><a href="https://imtiaz-hossain-emu.gitbook.io/system-design"> Imtiaz Hossain Emu </a> কেমনে করে সিস্টেম ডিজাইন? [Book] </li>
-  <li><a href=""> ডেভসংকেত </a> বাংলা ডেভেলপার চিটশিট [Book] </li>
+  <li><a href="https://imtiaz-hossain-emu.gitbook.io/system-design"> Imtiaz Hossain Emu </a> --> কেমনে করে সিস্টেম ডিজাইন? [Book] </li>
+  <li><a href="https://devsonket.com/"> ডেভসংকেত </a> --> বাংলা ডেভেলপার চিটশিট </li>
   
 </ul>
  <hr> 
