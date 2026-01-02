@@ -35,7 +35,7 @@
 </ul>
  <hr> 
 
- <h3> Python 💁‍♂️</h3>
+ <h3> Python 🐍</h3>
 <ul>
   
   <li><a href="https://dp-bn.github.io/file/book-0.1.alpha.pdf"> Tamim Shahriar Subeen[Bangla] </a>--> Book </li>
