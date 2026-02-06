@@ -122,4 +122,12 @@
 </ul>
  <hr> 
 
+
+  <h1> <b>📌 Tools 🎨</b> </h1>
+<ul>
+  
+  <li><a href="https://www.youtube.com/watch?v=S7XpTAnSDL4"> JavaScript Mastery </a> Git </li>
+  
+</ul>
+ <hr> 
  
