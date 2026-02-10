@@ -13,5 +13,5 @@
 
 <h3>Computer Basics A to Z 🖥️</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=Smv2U9dSuWE&t=1401s"> Computer Basics A to Z  </a> - Bangla </li>
+  <li><a href="https://www.geeksforgeeks.org/computer-science-fundamentals/basic-programming-problems/"> Computer Basics A to Z  </a> - Bangla </li>
 </ul>
